@@ -19,7 +19,13 @@ The script depends on some linux packages which you need to install before you r
 
 1. zenity
 2. bc (Basic Calculator)
-3. notify-send
+3. libnotify-bin
+
+For Debian based distros with apt use the following command:
+
+```
+sudo apt-get install zenity bc libnotify-bin
+```
 
 ## Run
 
