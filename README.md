@@ -9,13 +9,13 @@ The scipt has two main sections.
 
 One is Archive management section where you can set up archives and automate backups of your files and folders using cron jobs. 
 
-Another section is user management section which can be used to manage users and groups in the system. User and groups management include adding, deleting, renaming, changing permissions and many more.
+Another section is user management section which can be used to manage users and groups in the system. User and groups management includes adding, deleting, renaming, changing permissions and many more.
 
 A detailed user guide is available within the script file at the beginning of the script. Go through it if something seems confusing.
 
 ## Dependencies
 
-The script depends on some linux packages which you need to install before you run the script. Use your package manager to install the following packages:
+The script depends on some linux packages which you need to install before you run the script. Use your system package manager to install the following packages:
 
 1. zenity
 2. bc (Basic Calculator)
@@ -23,7 +23,7 @@ The script depends on some linux packages which you need to install before you r
 
 ## Run
 
-To run the script simply clone this repo using the commend below in your Linux terminal.
+After all dependencies are installed, to run the script simply clone this repo using the commend below in your Linux terminal.
 
 ```
 git clone https://github.com/iamsubingyawali/linusman.git
