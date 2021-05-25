@@ -11,7 +11,7 @@ One is Archive management section where you can set up archives and automate bac
 
 Another section is user management section which can be used to manage users and groups in the system. User and groups management include adding, deleting, renaming, changing permissions and many more.
 
-Full documentation for the usage of the scirpt will be published soon.
+A detailed user guide is available within the script file at the beginning of the script. Go through it if something seems confusing.
 
 ## Dependencies
 
