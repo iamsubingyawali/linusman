@@ -38,4 +38,4 @@ cd linusman
 
 _Note: I am not responsible for any damange caused to your system with incorrect use of this script. Do not proceed with any options in the script unless you know what you are doing. Distributing your own copy of this script is not allowed. Read the license file carefully before proceeding._
 
-_Bugs are expected. Open issues if you found some._
+_Bugs are expected. Open issues or pull requests if you found some._
