@@ -11,7 +11,7 @@ One is Archive management section where you can set up archives and automate bac
 
 Another section is user management section which can be used to manage users and groups in the system. User and groups management includes adding, deleting, renaming, changing permissions and many more.
 
-The User management section doesn't require any technical knowledge yo use but for archive management, you need to have basic knowledge of setting up cron jobs.
+The User management section doesn't require any technical knowledge to use but for archive management, you need to have basic knowledge of setting up cron jobs.
 
 A detailed user guide is available within the script file at the beginning of the script. Go through it if something seems confusing.
 
