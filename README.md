@@ -1,17 +1,13 @@
 # linusman
-Shell script to manage users and groups, and atuomate backups in Linux. 
+Shell script to manage users and groups in Linux. 
+
+<img src="https://user-images.githubusercontent.com/45819206/121498870-909bc000-c9fc-11eb-8719-8e0156a4c882.png" width=500>
 
 ## What does this script do?
 
-The scipt has two main sections. 
+The user management section can be used to manage users and groups in the system. User and groups management includes adding, deleting, renaming, changing permissions and many more. It doesn't require any technical knowledge to use.
 
-![image](https://user-images.githubusercontent.com/45819206/119443791-ec522200-bd49-11eb-9712-06f076d5a38e.png)
-
-One is Archive management section where you can set up archives and automate backups of your files and folders using cron jobs. 
-
-Another section is user management section which can be used to manage users and groups in the system. User and groups management includes adding, deleting, renaming, changing permissions and many more.
-
-The User management section doesn't require any technical knowledge to use but for archive management, you need to have basic knowledge of setting up cron jobs.
+<img src="https://user-images.githubusercontent.com/45819206/121499211-e40e0e00-c9fc-11eb-9fd7-43b4a25293dd.png" width=500>
 
 A detailed user guide is available within the script file at the beginning of the script. Go through it if something seems confusing.
 
@@ -21,12 +17,11 @@ The script depends on some linux packages which you need to install before you r
 
 1. zenity
 2. bc (Basic Calculator)
-3. libnotify-bin
 
 For Debian based distros with apt, use the following command:
 
 ```
-sudo apt-get install zenity bc libnotify-bin
+sudo apt-get install zenity bc
 ```
 
 ## Run
