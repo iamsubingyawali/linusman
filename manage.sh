@@ -7,21 +7,7 @@
 # o	Run the program with command: bash manange.sh or ./manage.sh
 # o	Press ‘x’ as input anywhere in the program to exit the program
 
-# o	Press 1 to enter Archive Management Console
-
-# 		Press 1 to Set up archive cron settings
-# 		•	A window will open allowing you to enter timings for the cron job. 
-# 			Enter minute, hour, day of month, month and day of week based on your requirement
-# 		•	A window will open allowing you to choose source folder or the folder you want to archive
-# 		•	A window will open allowing you to choose destination folder to keep the archived file
-# 		•	A window will open allowing you to enter the  name of the archived file without any extension
-# 		•	The program will set up a cron job and will archive the chosen files on specified 
-# 			time and will show a notification each time after archiving
-
-# 		Press 2 to clear all existing crontab jobs for the user
-# 		•	The program clears all the existing cron jobs for the user
-
-# o	Press 2 to enter User Management Console
+# o	Press 1 to enter User Management Console
 # *User must have root privileges to run user management console
 
 # 		Press 1 to add new user
